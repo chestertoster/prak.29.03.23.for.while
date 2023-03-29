@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\lesson цикл for\zad4\bin\Debug\zad4.exe.config
+C:\Users\Admin\source\repos\lesson цикл for\zad4\bin\Debug\zad4.exe
+C:\Users\Admin\source\repos\lesson цикл for\zad4\bin\Debug\zad4.pdb
+C:\Users\Admin\source\repos\lesson цикл for\zad4\obj\Debug\zad4.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\lesson цикл for\zad4\obj\Debug\zad4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\lesson цикл for\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\lesson цикл for\zad4\obj\Debug\zad4.exe
+C:\Users\Admin\source\repos\lesson цикл for\zad4\obj\Debug\zad4.pdb

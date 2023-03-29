@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\lesson цикл for\lesson цикл for\bin\Debug\lesson цикл for.exe.config
+C:\Users\Admin\source\repos\lesson цикл for\lesson цикл for\bin\Debug\lesson цикл for.exe
+C:\Users\Admin\source\repos\lesson цикл for\lesson цикл for\bin\Debug\lesson цикл for.pdb
+C:\Users\Admin\source\repos\lesson цикл for\lesson цикл for\obj\Debug\lesson цикл for.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\lesson цикл for\lesson цикл for\obj\Debug\lesson цикл for.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\lesson цикл for\lesson цикл for\obj\Debug\lesson цикл for.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\lesson цикл for\lesson цикл for\obj\Debug\lesson цикл for.exe
+C:\Users\Admin\source\repos\lesson цикл for\lesson цикл for\obj\Debug\lesson цикл for.pdb
